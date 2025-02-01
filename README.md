@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** with a k
 
 ---
 
-## 🔧 Tech Stack
+## 🖥️ Tech Stack
 - **Frontend:** HTML, CSS, JavaScript, Reactjs
 - **Backend:** PHP, Laravel, Node.js
 - **Database:** MySQL, PostgreSQL
